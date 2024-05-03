@@ -397,10 +397,10 @@ FodyWeavers.xsd
 # SQLite files
 *.sqlite
 *Db.*
+*.db
 
 # JetBrains Rider
 *.sln.iml
 
 # Migrations folder from EF CORE
 migrations/
-*.db
