@@ -2,6 +2,10 @@
 
 namespace Crud.Application.Interfaces;
 
+/// <summary>
+/// IServiceUsers
+/// </summary>
+/// <remarks>This class cannot be inherited.</remarks>
 public interface IServiceUsers
 {
     /// <summary>
